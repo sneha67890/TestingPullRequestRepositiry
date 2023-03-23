@@ -3,3 +3,5 @@ Git and GitHub are different things.
 In this tutorial you will understand what Git is and how to use it on the remote repository platforms, like GitHub.
 
 You can choose, and change, which platform to focus on by clicking in the menu on the right:
+
+This line is added by sneha
